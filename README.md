@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm [Pedro J. Ortiz](https://pjortiz.com), I'm a PhD student in Computer Science at [Sorbonne Université](https://sorbonne-universite.fr/en) and at the [ALMAnaCH research team](https://team.inria.fr/almanach/) at [Inria](https://www.inria.fr/en/) in Paris.
+
+I work primarily in deep learning for NLP. 👨🏻‍💻
+
+I am a weird coffee person ☕️ and a cookie enthusiast 🍪. If I'm not asleep I'm probably drinking coffee!
+
 <!--
 **pjox/pjox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
