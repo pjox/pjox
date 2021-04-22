@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm [Pedro J. Ortiz](https://pjortiz.com), I'm a PhD student in Computer Science at [Sorbonne Université](https://sorbonne-universite.fr/en) and at the [ALMAnaCH research team](https://team.inria.fr/almanach/) at [Inria](https://www.inria.fr/en/) in Paris.
+I'm a PhD student in Computer Science woking in Natural Language Processing (NLP) for historical documents at [Sorbonne Université](https://sorbonne-universite.fr/en) and at the [ALMAnaCH research team](https://team.inria.fr/almanach/) at [Inria](https://www.inria.fr/en/).
 
-I work primarily in deep learning for NLP. 👨🏻‍💻
+I am interested in [large corpora](https://oscar-corpus.com) for training [language models](https://camembert-model.fr), specially for under resourced languages and historical languages. I am interested in tasks such as Name Entity Recognition (NER), Dependency Parsing and Part-of-Speech tagging, Machine Translation and Document structuration.
 
-I am a weird coffee person ☕️ and a cookie enthusiast 🍪. If I'm not asleep I'm probably drinking coffee!
+I love coffee ☕️, cookies 🍪 and maths.
+
 
 <!--
 **pjox/pjox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
