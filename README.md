@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a postdoctoral researcher at the [Data and Web Science Group](https://www.uni-mannheim.de/dws/) at the [University of Mannheim](https://www.uni-mannheim.de/en/) at [Inria](https://www.inria.fr/en/).
+I'm a postdoctoral researcher at the [Data and Web Science Group](https://www.uni-mannheim.de/dws/) at the [University of Mannheim](https://www.uni-mannheim.de/en/).
 
 I am interested in [large corpora](https://oscar-corpus.com) for training [language models](https://camembert-model.fr), specially for under resourced languages and historical languages. I am interested in tasks such as Name Entity Recognition (NER), Dependency Parsing and Part-of-Speech tagging, Machine Translation and Document structuration.
 
